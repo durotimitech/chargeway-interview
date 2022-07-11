@@ -1,0 +1,13 @@
+First screen:
+[x] - The phone number under which the user is authorized
+[x] - I also to specify about the field for e-mail on the first screen. It should display mail if the person added it or an empty text input, where, in fact, he can add or edit it
+[x] - Button to go to the page with the user's payment methods
+[x] - Button to go to the page with the user's order history
+[x] - Delete account button
+[x] - Sign out button
+
+Screen with payment data:
+The list displays the user's payment methods
+
+Screen with order history:
+[x] - The list displays the user's order history
